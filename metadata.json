@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Orbiter",
+  "description": "An interactive, high-performance 3D particle planet visualization using React and Canvas.",
+  "requestFramePermissions": []
+}
